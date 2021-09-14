@@ -1,0 +1,31 @@
+.container1 {
+  text-align: center;
+  margin: 10% auto;
+  width: 60%;
+  background-color: white;
+  padding: 40px;
+}
+
+.listItems {
+  background-color: white;
+  color: #05386b;
+}
+.title {
+  background-color: #05386b;
+  color: white;
+}
+.listItems span {
+  display: inline-block;
+  padding: 10px 0;
+  font-size: 20px;
+  border: 0.5px solid #ccc;
+}
+.listItems .task {
+  width: 60%;
+}
+.listItems .time {
+  width: 30%;
+}
+.listItems .action {
+  width: 10%;
+}

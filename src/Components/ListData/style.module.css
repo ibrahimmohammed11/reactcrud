@@ -1,0 +1,38 @@
+.closeSt {
+  cursor: pointer;
+  font-size: 25px;
+  color: red;
+}
+.editSt {
+  cursor: pointer;
+  font-size: 25px;
+  color: #4ec45c;
+}
+.task {
+  width: 60%;
+}
+.edit {
+  width: 20%;
+  cursor: pointer;
+}
+.action {
+  width: 20%;
+  cursor: pointer;
+}
+.editInput {
+  width: 80%;
+  border: none;
+  background-color: #ccc;
+  padding: 10px;
+}
+.editInput:focus {
+  box-shadow: 0 0 5pt 2pt #d3d3d3;
+  outline-width: 0px;
+}
+.editButton {
+  width: 20%;
+  background-color: #4ec45c;
+  color: white;
+  padding: 10px;
+  border: none;
+}
