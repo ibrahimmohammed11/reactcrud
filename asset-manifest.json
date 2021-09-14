@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactcrud/static/css/main.c741e920.chunk.css",
+    "main.js": "/reactcrud/static/js/main.041b9f71.chunk.js",
+    "main.js.map": "/reactcrud/static/js/main.041b9f71.chunk.js.map",
+    "runtime-main.js": "/reactcrud/static/js/runtime-main.ecd551ea.js",
+    "runtime-main.js.map": "/reactcrud/static/js/runtime-main.ecd551ea.js.map",
+    "static/css/2.5aa61c8e.chunk.css": "/reactcrud/static/css/2.5aa61c8e.chunk.css",
+    "static/js/2.83feee16.chunk.js": "/reactcrud/static/js/2.83feee16.chunk.js",
+    "static/js/2.83feee16.chunk.js.map": "/reactcrud/static/js/2.83feee16.chunk.js.map",
+    "index.html": "/reactcrud/index.html",
+    "static/css/2.5aa61c8e.chunk.css.map": "/reactcrud/static/css/2.5aa61c8e.chunk.css.map",
+    "static/css/main.c741e920.chunk.css.map": "/reactcrud/static/css/main.c741e920.chunk.css.map",
+    "static/js/2.83feee16.chunk.js.LICENSE.txt": "/reactcrud/static/js/2.83feee16.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/reactcrud/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecd551ea.js",
+    "static/css/2.5aa61c8e.chunk.css",
+    "static/js/2.83feee16.chunk.js",
+    "static/css/main.c741e920.chunk.css",
+    "static/js/main.041b9f71.chunk.js"
+  ]
+}
